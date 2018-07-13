@@ -1,2 +1,2 @@
 # pg
-a package for accessing payment gateways of banks.
+A package for accessing payment gateways of banks.
